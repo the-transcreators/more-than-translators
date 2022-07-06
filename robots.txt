@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https:// the-transcreators.github.io/more-than-translators/sitemap.xml
+Sitemap: https://the-transcreators.github.io/more-than-translators/sitemap.xml
